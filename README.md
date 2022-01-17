@@ -1,15 +1,15 @@
 # Investigation of Permit Approval Times for New Construction in San Francisco, CA
 
-## Semester Project for CUSP-GX 5002: Principles of Urban Informatics, Fall 2021
+### Semester Project for CUSP-GX 5002: Principles of Urban Informatics, Fall 2021
 
-## Rohan Kalyani and Turbold Baatarchuuluu
+### Rohan Kalyani and Turbold Baatarchuuluu
 
-### Executive Summary
+### Abstract
 
 The state of California, and particularly the City of San Francisco, is experiencing a severe housing shortage. Housing developers must go through a lengthy and costly permitting process to build new housing units. Building permit approval times (BPAT) for new construction permits in San Francisco were analyzed to assess the influence of various factors on BPATs. From 2013 to 2021, the median BPAT was determined to be 340 days. Explanatory multivariate OLS regression models were developed, and the three most statistically significant factors were determined to be the permit approval year, the existence of a corresponding ‘site permit’, and the number of proposed stories in the permit. The permit approval year and the existence of a site permit resulted in increased BPATs, while the number of proposed stories resulted in decreased BPATs. Furthermore, it was found that low-density zoning resulted in increased BPATs while high-density zoning resulted in decreased BPATs.
 
 #### Master Notebook - View This to Follow Along!
-The notebook with the bulk of the project work (data aggregation, EDA, visualization, modeling) is [PUI Mastersheet.ipynb](PUI%Mastersheet.ipynb). The other notebooks are mostly for API queries, initial EDA, and data cleaning and pre-processing. 
+The notebook with the bulk of the project work (data aggregation, EDA, visualization, modeling) is [PUI Mastersheet.ipynb](https://github.com/rohanskalyani/sfpermittimes/blob/main/PUI%20Mastersheet.ipynb). The other notebooks are mostly for API queries, initial EDA, and data cleaning and pre-processing. 
 
 ### Motivation and Overview
 <details>
@@ -69,7 +69,7 @@ Since the purpose of this project is to investigate possible reasons for long wa
 </details>
   
 ### Results
-To see the results of the analysis, view the master notebook, [PUI Mastersheet.ipynb](PUI%Mastersheet.ipynb).
+To see the results of the analysis, view the master notebook, [PUI Mastersheet.ipynb](https://github.com/rohanskalyani/sfpermittimes/blob/main/PUI%20Mastersheet.ipynb).
   
 ### Discussion and Recommendations
  <details>
